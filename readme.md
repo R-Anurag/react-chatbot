@@ -6,7 +6,7 @@
 
 This project is a **simple, customizable chatbot component** built using the React JavaScript library. It provides a clean, functional interface for having a basic conversation, managing message history, and simulating bot responses.
 
-It's designed to be a lightweight starting point for integrating conversational UI into any React application, with the flexibility to easily connect to a custom backend API or a large language model (LLM) service for intelligent responses.
+It's designed to be a lightweight starting point for integrating conversational UI into any React application, with the flexibility to easily connect to a custom backend API.
 
 ---
 
